@@ -19,4 +19,8 @@ print(f"The area of the circle is : {round(area, 2)} cm²")
 a = float(input("Enter the side a of the triangle: "))
 b = float(input("Enter the side b of the triangle: "))
 c = math.sqrt(pow(a, 2) + pow(b, 2))
-print(f"The length of the hypotenuse c is : {round(c, 2)}")
+print (f"The length of the hypotenuse c is : {round(c,2)}cm" )
+
+                                               
+
+                                                
