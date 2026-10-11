@@ -43,3 +43,4 @@ for value in capitals.values():
 # .items() → returns both keys and values
 for key, value in capitals.items():
     print(f"{key} : {value}")
+
